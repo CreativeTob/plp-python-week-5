@@ -2,4 +2,4 @@
 
 ### What i learnt
 
-- I learnt how to import the attributes of a parent class usin ** Super() **
+- I learnt how to import the attributes of a parent class using **Super()**
